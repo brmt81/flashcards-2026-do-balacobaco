@@ -1,1 +1,1 @@
-# flashcards-2026-do-balacobaco
+# flashcards-do-balacobaco
