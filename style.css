@@ -5,4 +5,18 @@
 
 .cabecalio {
     padding: 15px 25px;
+    display: flax;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cartao{
+    width: 260px;
+    heigth: 260px;
+
+}
+
+.cartao-imagem {
+    width: 100%;
+    border-radius: 10px;
 }
