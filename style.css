@@ -20,3 +20,13 @@
     width: 100%;
     border-radius: 10px;
 }
+
+body {
+    display: flax;
+    flex-direction: colum;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
