@@ -26,7 +26,7 @@ body {
     display: flax;
     flex-direction: colum;
     min-height: 100vh;
-    background-color: rgb(7, 7, 7);
+    background-color: rgb(244, 242, 242);
 }
 
 main {
@@ -54,6 +54,10 @@ footer {
     position: relative;
     transition: transform 0,8s;
     transform-style: preserve-3d;
+}
+
+.cartao-hover .cartao-interno {
+    transform: rotateY(180deg);
 }
 
 .cartao-frente, .cartao-verso {
