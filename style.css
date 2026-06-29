@@ -26,7 +26,7 @@ body {
     display: flax;
     flex-direction: colum;
     min-height: 100vh;
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(228, 212, 212);
 }
 
 main {
@@ -40,14 +40,14 @@ main {
 }
 
 h1 {
-    color: rgb(18, 18, 144);
+    color: rgb(18, 144, 100);
     front-size: 24px;
 }
 
 footer {
-    background-color: blueviolet;
+    background-color: rgb(31, 4, 57);
     padding: 15px 24px;
-    color: rgb(255, 0, 21);
+    color: rgb(120, 7, 17);
 }
 
 .cartao-interno {
@@ -58,4 +58,5 @@ footer {
     position: relative;
     border-radius: 12px;
     box-shadow: 0 6px 12px rgb(90, 2, 17);
+    backface-visibility: hidden;
 }
