@@ -8,6 +8,7 @@
     display: flax;
     justify-content: space-between;
     align-items: center;
+    background-color: black;
 }
 
 .cartao{
@@ -25,8 +26,36 @@ body {
     display: flax;
     flex-direction: colum;
     min-height: 100vh;
+    background-color: aqua;
 }
 
 main {
     flex: 1;
+}
+
+
+.cabecalio-link {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+h1 {
+    color: blue;
+    front-size: 24px;
+}
+
+footer {
+    background-color: blueviolet;
+    padding: 15px 24px;
+    color: chartreuse;
+}
+
+.cartao-interno {
+    position: relative;
+}
+
+.cartao-frente, .cartao-verso {
+    position: relative;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px pink;
 }
