@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #f5f6f9;
+    background-color: #013ef6;
 }
 
 .cartao {
@@ -24,7 +24,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #0732f6;
+    background-color: #f7f8f9;
     
 }
 
@@ -36,19 +36,19 @@ main {
 }
 
 .cabecalho-link {
-    color: #0901f7;
+    color: #f7f7fa;
     text-decoration: none;
 }
 
 h1 {
-    color: #0111f4;
+    color: #f5f6f9;
     font-size: 24px;
 }
 
 footer {
     background-color: #f6f6f9;
     padding: 15px 25px;
-    color: #003af8;
+    color: #f1f3f6;
 }
 
 .cartao-interno {
